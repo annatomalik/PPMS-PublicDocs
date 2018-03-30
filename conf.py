@@ -27,6 +27,7 @@ API_PATH = os.path.join(os.path.dirname(__file__), '_static/api')
 
 api_definitions = {
     'audience_manager_public_api.json': 'audience_manager/public_api/index.yaml',
+    'analytics_reporting_api.json': 'analytics/reporting_api.yaml',
 }
 
 for output, input in api_definitions.items():
