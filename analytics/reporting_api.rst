@@ -16,3 +16,18 @@ This API gives access to your analytics reports.
 
     <redoc spec-url="../_static/api/analytics_reporting_api.json" expand-responses="" sticky-sidebar="">
     </redoc>
+
+Module API
+----------
+TODO
+
+API.getSegmentsMetadata
+```````````````````````
+TODO
+
+.. function:: API.getSegmentsMetadata(idSites)
+    :param idSites: TODO
+    :returns: TODO
+
+Report example::
+    {'somenthing': true}
