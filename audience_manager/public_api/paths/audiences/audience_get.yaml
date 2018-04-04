@@ -12,7 +12,7 @@ get:
     format: uuid
     description: ID of the website.
     required: True
-    example: '0fdd8cc2-93b1-428c-8373-97a452f5b10'
+    example: '0fdd8cc2-93b1-428c-8373-97a452f5b10c'
   - name: analytics_visitor_id
     in: path
     type: string
@@ -27,7 +27,7 @@ get:
         type: array
         items:
           type: string
-          example: '0fdd8cc2-93b1-428c-8373-97a452f5b10'
+          example: '0fdd8cc2-93b1-428c-8373-97a452f5b10c'
     400:
       description: Bad Request
     403:
