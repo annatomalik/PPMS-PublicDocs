@@ -340,7 +340,7 @@ TODO
 
     :returns: TODO
 
-    Report example::
+Report example::
 
     TODO
 
@@ -352,6 +352,6 @@ TODO
 
     :returns: TODO
 
-        Report example::
+Report example::
 
     TODO

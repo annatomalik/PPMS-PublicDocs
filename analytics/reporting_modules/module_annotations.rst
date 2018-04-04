@@ -44,7 +44,7 @@ TODO
     :param idNote: TODO
     :returns: TODO
 
-    Report example::
+Report example::
 
     TODO
 

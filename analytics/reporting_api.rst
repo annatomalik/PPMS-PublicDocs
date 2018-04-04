@@ -22,28 +22,28 @@ Module API
 TODO
 
 .. toctree::
-    module_api
+    reporting_modules/module_api
 
 Module AbTesting
 ----------------
 TODO
 
 .. toctree::
-    module_abtesting
+    reporting_modules/module_abtesting
 
 Module Actions
 --------------
 TODO
 
 .. toctree::
-    module_actions
+    reporting_modules/module_actions
 
 Module ActivityLog
 ------------------
 TODO
 
 .. toctree::
-    module_activitylog
+    reporting_modules/module_activitylog
 
 Module Annotations
 ------------------
@@ -51,7 +51,7 @@ Module Annotations
 TODO
 
 .. toctree::
-    module_annotations
+    reporting_modules/module_annotations
 
 Module Bandwidth
 ----------------
@@ -59,7 +59,7 @@ Module Bandwidth
 TODO
 
 .. toctree::
-    module_bandwith
+    reporting_modules/module_bandwith
 
 Module Contents
 ---------------
@@ -67,7 +67,7 @@ Module Contents
 TODO
 
 .. toctree::
-    module_contents
+    reporting_modules/module_contents
 
 Module CustomAlert
 ------------------
@@ -75,7 +75,7 @@ Module CustomAlert
 TODO
 
 .. toctree::
-    module_customalerts
+    reporting_modules/module_customalerts
 
 Module CustomDimensions
 -----------------------
@@ -83,7 +83,7 @@ Module CustomDimensions
 TODO
 
 .. toctree::
-    module_customdimensions
+    reporting_modules/module_customdimensions
 
 
 Module CustomPiwikJS
@@ -92,7 +92,7 @@ Module CustomPiwikJS
 TODO
 
 .. toctree::
-    module_custompiwikjs
+    reporting_modules/module_custompiwikjs
 
 Module CustomReports
 --------------------
@@ -100,7 +100,7 @@ Module CustomReports
 TODO
 
 .. toctree::
-    module_customreports
+    reporting_modules/module_customreports
 
 Module CustomVariables
 ----------------------
@@ -108,7 +108,7 @@ Module CustomVariables
 TODO
 
 .. toctree::
-    module_customvariables
+    reporting_modules/module_customvariables
 
 Module Dashboard
 ----------------
@@ -116,7 +116,7 @@ Module Dashboard
 TODO
 
 .. toctree::
-    module_dashboard
+    reporting_modules/module_dashboard
 
 Module DevicePlugins
 --------------------
@@ -124,7 +124,7 @@ Module DevicePlugins
 TODO
 
 .. toctree::
-    module_deviceplugins
+    reporting_modules/module_deviceplugins
 
 Module Events
 -------------
@@ -132,7 +132,7 @@ Module Events
 TODO
 
 .. toctree::
-    module_events
+    reporting_modules/module_events
 
 Module ExampleAPI
 -----------------
@@ -140,7 +140,7 @@ Module ExampleAPI
 TODO
 
 .. toctree::
-    module_example
+    reporting_modules/module_example
 
 Module Feedback
 ---------------
@@ -148,7 +148,7 @@ Module Feedback
 TODO
 
 .. toctree::
-    module_feedback
+    reporting_modules/module_feedback
 
 Module FormAnalytics
 --------------------
@@ -156,7 +156,7 @@ Module FormAnalytics
 TODO
 
 .. toctree::
-    module_formanalytics
+    reporting_modules/module_formanalytics
 
 Module Funnels
 --------------
@@ -164,7 +164,7 @@ Module Funnels
 TODO
 
 .. toctree::
-    module_funnels
+    reporting_modules/module_funnels
 
 Module Goals
 ------------
@@ -172,7 +172,7 @@ Module Goals
 TODO
 
 .. toctree::
-    module_goals
+    reporting_modules/module_goals
 
 Module HeatmapSessionRecording
 ------------------------------
@@ -180,7 +180,7 @@ Module HeatmapSessionRecording
 TODO
 
 .. toctree::
-    module_heatmapsessionrecording
+    reporting_modules/module_heatmapsessionrecording
 
 Module ImageGraph
 -----------------
@@ -188,7 +188,7 @@ Module ImageGraph
 TODO
 
 .. toctree::
-    module_imagegraph
+    reporting_modules/module_imagegraph
 
 Module Insights
 ---------------
@@ -196,8 +196,264 @@ Module Insights
 TODO
 
 .. toctree::
-    module_insights
+    reporting_modules/module_insights
 
+
+Module LanguagesManager
+-----------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_languagesmanager
+
+Module Live
+-----------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_live
+
+Module LogViewer
+----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_logviewer
+
+Module LoginSaml
+----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_loginsaml
+
+Module MarketingCampaignsReporting
+----------------------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_marketingcampaignsreporting
+
+Module Marketplace
+------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_marketplace
+
+
+Module MediaAnalytics
+---------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_mediaanalytics
+
+Module MobileMessaging
+----------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_mobilemessaging
+
+
+Module MultiChannelConversionAttribution
+----------------------------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_multichannelconversionattribution
+
+Module MultiSites
+-----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_multisites
+
+
+Module Overlay
+--------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_overlay
+
+Module Provider
+---------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_provider
+
+Module Referrers
+----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_referrers
+
+Module Resolution
+-----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_resolution
+
+
+Module RollUpReporting
+----------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_rollupreporting
+
+Module SEO
+----------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_seo
+
+Module ScheduledReports
+-----------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_scheduledreports
+
+
+Module ScheduledSearchEngineKeywordsPerformanceReports
+------------------------------------------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_scheduledsearchenginekeywordsperformancereports
+
+Module SegmentEditor
+--------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_segmenteditor
+
+Module SitesManager
+-------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_sitesmanager
+
+Module Transitions
+------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_transitions
+
+Module TreemapVisualization
+---------------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_treemapvisualization
+
+
+Module UserCountry
+------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_usercountry
+
+Module UserId
+-------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_userid
+
+Module UserLanguage
+-------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_userlanguage
+
+Module UsersFlow
+----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_usersflow
+
+
+Module UsersManager
+-------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_usersmanager
+
+
+Module VisitFrequency
+---------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_visitfrequency
+
+Module VisitTime
+----------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_visittime
+
+Module VisitorInterest
+----------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_visitorinterest
+
+Module VisitsSummary
+--------------------
+
+TODO
+
+.. toctree::
+    reporting_modules/module_visitssummary
 
 
 

@@ -1,16 +1,16 @@
 .. highlight:: js
 .. default-domain:: js
 
-API.getMatomoVersion
+API.getPiwikVersion
 ````````````````````
 TODO
 
-.. function:: API.getMatomoVersion()
+.. function:: API.getPiwikVersion()
 
     :returns: TODO
 
 Report example::
-    {"value":"3.4.0-rc2"}
+    {"value":"3.1.0"}
 
 API.getIpFromHeader
 ```````````````````

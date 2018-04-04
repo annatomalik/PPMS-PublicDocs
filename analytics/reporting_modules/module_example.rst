@@ -1,11 +1,11 @@
 .. highlight:: js
 .. default-domain:: js
 
-ExampleAPI.getMatomoVersion
-```````````````````````````
+ExampleAPI.getPiwikVersion
+``````````````````````````
 TODO
 
-.. function:: ExampleAPI.getMatomoVersion()
+.. function:: ExampleAPI.getPiwikVersion()
 
     :returns: TODO
 
